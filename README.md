@@ -1,5 +1,40 @@
-# 💫 About Me:
-Hi there! 👋<br>I'm Shahbaz, a passionate Full-Stack Web Developer and a BSc Computer Science student. Currently, I'm delving into the fascinating world of web development, working on diverse projects that span front-end and back-end technologies.<br><br>In addition to my web development journey, I'm also pouring my creativity into developing a 3D indie game. This project allows me to blend my coding skills with my love for gaming, providing a unique platform to explore game development techniques and tools.<br><br>📚 Education<br>BSc Computer Science (Ongoing)<br>💼 Professional Experience<br>Full-Stack Web Developer<br>🛠️ Technologies & Tools<br>Frontend: HTML, CSS, JavaScript, React, Nextjs<br>Backend: Node.js, Express, MongoDB, Git<br>Game Development: Unity, Unreal C++ C#<br>🌱 Currently Learning<br>Advanced JavaScript frameworks<br>Game physics and graphics in Unity<br>🚀 Projects<br>3D Indie Game: Title: Survive the Apocalypse<br>Description: A gripping survival game set at the onset of a zombie apocalypse. You and your family must journey from Manila to Solano, navigating through perilous landscapes and encountering various challenges. The goal is to survive and reach your hometown safely.<br>📫 How to reach me<br>LinkedIn https://www.linkedin.com/in/shahbaz-sherwani/<br>Email m.shahbazsherwani@gmail.com<br>
+# Hi there! 👋<br>
+I'm Shahbaz, a passionate Full-Stack Web Developer and aspiring Machine Learning & AI Engineer. I build practical, user-focused digital products that combine clean design, scalable web technologies, and intelligent systems.<br><br>
+
+I work on full-stack web development projects across both front-end and back-end technologies, creating responsive interfaces, structured backend systems, and functional web applications. Alongside my web development work, I am actively building my expertise in Artificial Intelligence, Machine Learning, and data-driven applications, with a focus on developing smart solutions that use automation, prediction, and intelligent user experiences.<br><br>
+
+In addition to web development and AI, I'm also developing a 3D indie game. This project allows me to combine coding, storytelling, game mechanics, and creative problem-solving while working with tools such as Unity, Unreal Engine, C++, and C#.<br><br>
+
+## 📚 Education<br>
+BSc Computer Science — Ongoing<br><br>
+
+## 💼 Professional Experience<br>
+Full-Stack Web Developer<br><br>
+
+## 🛠️ Technologies & Tools<br>
+Frontend: HTML, CSS, JavaScript, React, Next.js<br>
+Backend: Node.js, Express, MongoDB, Git<br>
+AI & Machine Learning: Python, Machine Learning Fundamentals, Data Analysis, Neural Networks, AI Model Development<br>
+Game Development: Unity, Unreal Engine, C++, C#<br><br>
+
+## 🌱 Currently Working On & Learning<br>
+Full-stack web applications<br>
+AI and machine learning projects<br>
+Machine learning algorithms and model training<br>
+Python for AI and data science<br>
+Game physics and graphics in Unity<br><br>
+
+## 🚀 Projects<br>
+3D Indie Game: Survive the Apocalypse<br>
+Description: A gripping survival game set at the beginning of a zombie apocalypse. You and your family must travel from Manila to Solano, navigating dangerous environments, making survival decisions, and overcoming challenges along the way. The goal is to survive the journey and reach your hometown safely.<br><br>
+
+## AI & Machine Learning Projects<br>
+Description: Working on AI and machine learning concepts, data processing, model development, and intelligent application features with the goal of integrating AI into real-world web and software projects.<br><br>
+
+## 📫 How to reach me<br>
+LinkedIn: https://www.linkedin.com/in/shahbaz-sherwani/<br>
+Email: [m.shahbazsherwani@gmail.com](mailto:m.shahbazsherwani@gmail.com)
+
 
 
 ## 🌐 Socials:
